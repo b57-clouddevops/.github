@@ -20,9 +20,10 @@ https://gitlab.com/thecloudcareers/opensource/-/blob/master/aws-account-creation
 ### Linux Learning AMI To Use ( Image is available in N.Virginia )
 
 ```
-AMI NAME    : Centos7-Linux-Learning-AMI
-Credentials : centos / Password123 
-Region      : N.Virginia
+    AMI Name: learn-linux-on-centos7 
+    UserName: centos                   ( lowerCase only )
+    Password: DevOps321                ( D and O are upperCase )
+    Region  : N.Virginia
 ```
 
 ### Linux-Notes
